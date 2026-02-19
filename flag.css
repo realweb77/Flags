@@ -1,0 +1,23 @@
+.main {
+  border: 10px solid black;
+  height: 300px;
+  width: 600px;
+}
+.a {
+  height: 100px;
+  width: 600px;
+  background-color: #fff;
+}
+
+.b {
+  height: 100px;
+  width: 600px;
+  background-color: #00a652;
+  z-index: 2;
+}
+
+.c {
+  height: 100px;
+  width: 600px;
+  background-color: #ed1b24;
+}
